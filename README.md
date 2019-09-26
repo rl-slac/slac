@@ -1,5 +1,5 @@
 # Stochastic Latent Actor-Critic
-[[Project Page]](https://rl-slac.github.io/slac/) [[Paper]](https://openreview.net/forum?id=Hklix6xtDr)
+[[Project Page]](https://rl-slac.github.io/slac/) [[Paper]](https://openreview.net/forum?id=HJxDugSFDB)
 
 ## Getting started ###
 ### Prerequisites
