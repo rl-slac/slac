@@ -1,5 +1,5 @@
 # Stochastic Latent Actor-Critic
-[[Project Page]](https://rl-slac.github.io/slac/) [[Paper]](https://openreview.net/forum?id=HJxDugSFDB)
+[[Project Page]](https://rl-slac.github.io/slac/) [[Paper]](https://rl-slac.github.io/slac/index_files/Stochastic_Latent_Actor_Critic__SLAC__ICLR_2020.pdf)
 
 ## Getting started ###
 ### Prerequisites
