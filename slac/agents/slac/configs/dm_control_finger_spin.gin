@@ -3,4 +3,4 @@
 train_eval.universe = 'dm_control'
 train_eval.domain_name = 'finger'
 train_eval.task_name = 'spin'
-train_eval.action_repeat = 2
+train_eval.action_repeat = 1
