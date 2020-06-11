@@ -1,5 +1,5 @@
 # Stochastic Latent Actor-Critic
-[[Project Page]](https://rl-slac.github.io/slac/) [[Paper]](https://rl-slac.github.io/slac/index_files/icml2020_slac.pdf)
+[[Project Page]](https://rl-slac.github.io/slac/) [[Paper]](https://rl-slac.github.io/slac/index_files/slac_neurips2020.pdf)
 
 ## Getting started ###
 ### Prerequisites
